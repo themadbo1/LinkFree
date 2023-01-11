@@ -1,0 +1,19 @@
+{
+  "name": "Kuzey Sırdaş",
+  "displayStatsPublic": true,
+  "type": "Business",
+  "bio": "International CyberSecurity Student, Currently in Ecole Cariboo Hill Secondary",
+  "avatar": "https://media.licdn.com/dms/image/C4E03AQGkUVP1L3tbHA/profile-displayphoto-shrink_400_400/0/1658696924483?e=1678924800&v=beta&t=AlV3GK2Hj1qGmd74vTWvinWLkqo36iD4ZXcz-UDxSmE",
+  "links": [
+    {
+      "name": "Mail Me!",
+      "url": "kuzeysirdas07@hotmail.com",
+      "icon": "FaHotmail"
+      
+    }
+    {
+      "name": "Follow me on LinkedIN",
+      "url": "https://www.linkedin.com/in/kuzey-sırdaş-079474246/",
+      "icon": "FaLinkedin"
+    }
+}
